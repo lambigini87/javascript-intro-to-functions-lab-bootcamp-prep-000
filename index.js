@@ -23,5 +23,5 @@ if ((string.toLowerCase()) ===  lowercase)
 function sayHiToGrandma(string){
   var uppercase = string;
 if ((string.toUpperCase()) ===  uppercase) 
-  return "YES INDDED!";
+  return "YES INDEED!";
 }
