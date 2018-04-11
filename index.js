@@ -25,7 +25,3 @@ if (string.toLowerCase() ===  lowercase)
 }
 
 
-function sayHiToGrandma(string){
-  
-
-}
